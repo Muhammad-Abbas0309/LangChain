@@ -1,7 +1,8 @@
 # LangChain Basics on Groq 🚀
 
-![LangChain Logo](https://agile-systems.de/wp-content/uploads/2024/03/LangChain-Logo.png)
----
+<div align="center">
+  <img src="https://agile-systems.de/wp-content/uploads/2024/03/LangChain-Logo.png" alt="LangChain Logo" width="200">
+</div>---
 
 ## 📖 About
 
